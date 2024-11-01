@@ -546,3 +546,6 @@ Observe the behaviour of the Ajax calls  using the browser developer tools, e.g.
 
 Compare the server-side messages logged by Uvicorn.
 
+#   l a b - D y n a m i c - C o n t e n t - p a r t - 2  
+ #   l a b - D y n a m i c - C o n t e n t - p a r t - 2  
+ 
